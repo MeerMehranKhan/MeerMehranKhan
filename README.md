@@ -52,7 +52,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   <img src="assets/logos/html5.png" alt="HTML5" height="40" />
   <img src="assets/logos/css3.png" alt="Plotly" height="40" />
   <img src="assets/logos/mysql.png" alt="MySQL" height="40" />
-  <img src="assets/logos/postgesql.png" alt="PostgreSQL" height="40" />
+  <img src="assets/logos/postgresql.png" alt="PostgreSQL" height="40" />
   <img src="assets/logos/mongodb.png" alt="MongoDB" height="40" />
   <img src="assets/logos/sqlite.png" alt="SQLite" height="40" />
   <img src="assets/logos/numpy.png" alt="NumPy" height="40" />
