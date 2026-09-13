@@ -63,6 +63,8 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   <img src="assets/logos/jupyter.png" alt="Jupyter" height="40" />
   <img src="assets/logos/power-bi.png" alt="Power BI" height="40" />
   <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" />
+  <img src="assets/logos/anaconda.png" alt="Anaconda" height="40" /> 
+  <img src="assets/logos/docker.png" alt="Docker" height="40" /> 
 </p>
 
 ---
