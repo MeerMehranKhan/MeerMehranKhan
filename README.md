@@ -3,7 +3,7 @@
 <h3 align="center">Building data-driven AI systems for pricing, markets, and decision-making</h3>
 
 <p align="center">
-  Final-year IT student turning messy data into real-world insights.
+  BS Information Technology graduate turning messy data into real-world insights.
 </p>
 
 <p align="center">
