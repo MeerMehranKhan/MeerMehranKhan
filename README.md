@@ -42,27 +42,27 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 
 **Languages & Databases**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="assets/logos/python.png" alt="Python" width="40" height="40" />
+<img src="assets/logos/html5.png" alt="HTML5" width="40" height="40" />
+<img src="assets/logos/css3.png" alt="CSS3" width="40" height="40" />
+<img src="assets/logos/mysql.png" alt="MySQL" width="40" height="40" />
+<img src="assets/logos/postgresql.png" alt="PostgreSQL" width="40" height="40" />
+<img src="assets/logos/mongodb.png" alt="MongoDB" width="40" height="40" />
+<img src="assets/logos/sqlite.png" alt="SQLite" width="40" height="40" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 **Data Science & Analytics**
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="assets/logos/numpy.png" alt="NumPy" width="40" height="40" />
+<img src="assets/logos/pandas.png" alt="Pandas" width="40" height="40" />
+<img src="assets/logos/matplotlib.png" alt="Matplotlib" width="40" height="40" />
+<img src="assets/logos/scikit-learn.png" alt="scikit-learn" width="40" height="40" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 
 **Visualization & BI**
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="assets/logos/power-bi.png" alt="Power BI" width="40" height="40" />
+<img src="assets/logos/excel.png" alt="Excel" width="40" height="40" />
 
 **Machine Learning & AI**
 
@@ -78,7 +78,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="assets/logos/linux.png" alt="Linux" width="40" height="40" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
