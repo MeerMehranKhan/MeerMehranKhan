@@ -57,7 +57,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 <img src="assets/logos/pandas.png" alt="Pandas" width="40" height="40" />
 <img src="assets/logos/matplotlib.png" alt="Matplotlib" width="40" height="40" />
 <img src="assets/logos/scikit-learn.png" alt="scikit-learn" width="40" height="40" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="assets/logos/ploty.png" alt="SQLite" width="40" height="40" />
 
 **Visualization & BI**
 
