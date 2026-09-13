@@ -46,17 +46,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,postgres,mongodb,sqlite,git,github,docker,linux,fastapi,sklearn,vscode,anaconda&perline=8" />
 </p>
 
-**Data Science Libraries & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+<p> <a href="https://numpy.org/" target="_blank"> <img src="assets/logos/NumPy.png" alt="NumPy" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/logos/Pandas.png" alt="Pandas" height="40" /> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="assets/logos/Matplotlib.png" alt="Matplotlib" height="40" /> </a> <a href="https://plotly.com/python/" target="_blank"> <img src="assets/logos/Plotly.png" alt="Plotly" height="40" /> </a> <a href="https://streamlit.io/" target="_blank"> <img src="assets/logos/Streamlit.png" alt="Streamlit" height="40" /> </a> <a href="https://jupyter.org/" target="_blank"> <img src="assets/logos/Jupyter.png" alt="Jupyter" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="assets/logos/Power BI.png" alt="Power BI" height="40" /> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="assets/logos/Excel.png" alt="Microsoft Excel" height="40" /> </a> </p>
 
 ---
 
