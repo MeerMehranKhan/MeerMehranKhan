@@ -54,17 +54,21 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   <img src="assets/logos/mysql.png" alt="MySQL" height="40" />
   <img src="assets/logos/postgresql.png" alt="PostgreSQL" height="40" />
   <img src="assets/logos/mongodb.png" alt="MongoDB" height="40" />
-  <img src="assets/logos/sqlite.png" alt="SQLite" height="40" />
   <img src="assets/logos/numpy.png" alt="NumPy" height="40" />
   <img src="assets/logos/pandas.png" alt="Pandas" height="40" />
   <img src="assets/logos/matplotlib.png" alt="Matplotlib" height="40" />
+  <img src="assets/logos/sqlite.png" alt="SQLite" height="40" />
   <img src="assets/logos/plotly.png" alt="Plotly" height="40" />
+  <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" />
   <img src="assets/logos/streamlit.png" alt="Streamlit" height="40" />
   <img src="assets/logos/jupyter.png" alt="Jupyter" height="40" />
   <img src="assets/logos/power-bi.png" alt="Power BI" height="40" />
-  <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" />
   <img src="assets/logos/anaconda.png" alt="Anaconda" height="40" /> 
   <img src="assets/logos/docker.png" alt="Docker" height="40" /> 
+  <img src="assets/logos/fastapi.png" alt="FastAPI" height="40" /> 
+  <img src="assets/logos/git.png" alt="Git" height="40" /> 
+  <img src="assets/logos/linux.png" alt="Linux" height="40" /> 
+  <img src="assets/logos/scikit-learn.png" alt="Scikit-learn" height="40" /> 
 </p>
 
 ---
