@@ -76,10 +76,11 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 **Tools & Platforms**
 
 <img src="assets/logos/git.png" alt="SQLite" width="40" height="40" />
-<img src="assets/logos/github.png" alt="SQLite" width="40" height="40" />
+<!-- <img src="assets/logos/github.png" alt="SQLite" width="40" height="40" /> -->
 <img src="assets/logos/docker.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/linux.png" alt="Linux" width="40" height="40" />
-<img src="assets/logos/stremlit.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/sqlite.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/streamlit.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/jupyter.png" alt="SQLite" width="40" height="40" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 <img src="assets/logos/vscode.png" alt="SQLite" width="40" height="40" />
