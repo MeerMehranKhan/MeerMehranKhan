@@ -76,13 +76,13 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   </tr>
 </table>
 
-**Machine Learning & AI**
+<!-- **Machine Learning & AI**
 
 <img src="https://img.shields.io/badge/Machine_Learning-EE4C2C?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> -->
 
 <table>
   <tr>
