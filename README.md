@@ -44,10 +44,18 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,postgres,mongodb,sqlite,git,github,docker,linux,fastapi,sklearn,vscode,anaconda&perline=8" />
-  <a href="https://numpy.org/" target="_blank"> <img src="assets/logos/numpy.png" alt="NumPy" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/logos/pandas.png" alt="Pandas" height="40" /> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="assets/logos/matplotlib.png" alt="Matplotlib" height="40" /> </a> <a href="https://plotly.com/python/" target="_blank"> <img src="assets/logos/plotly.png" alt="Plotly" height="40" /> </a> <a href="https://streamlit.io/" target="_blank"> <img src="assets/logos/streamlit.png" alt="Streamlit" height="40" /> </a> <a href="https://jupyter.org/" target="_blank"> <img src="assets/logos/jupyter.png" alt="Jupyter" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="assets/logos/power-bi.png" alt="Power BI" height="40" /> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" /> </a>
 </p>
 
-<!-- <p> <a href="https://numpy.org/" target="_blank"> <img src="assets/logos/numpy.png" alt="NumPy" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="assets/logos/pandas.png" alt="Pandas" height="40" /> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="assets/logos/matplotlib.png" alt="Matplotlib" height="40" /> </a> <a href="https://plotly.com/python/" target="_blank"> <img src="assets/logos/plotly.png" alt="Plotly" height="40" /> </a> <a href="https://streamlit.io/" target="_blank"> <img src="assets/logos/streamlit.png" alt="Streamlit" height="40" /> </a> <a href="https://jupyter.org/" target="_blank"> <img src="assets/logos/jupyter.png" alt="Jupyter" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="assets/logos/power-bi.png" alt="Power BI" height="40" /> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" /> </a> </p> -->
+<p>
+  <img src="assets/logos/numpy.png" alt="NumPy" height="40" />
+  <img src="assets/logos/pandas.png" alt="Pandas" height="40" />
+  <img src="assets/logos/matplotlib.png" alt="Matplotlib" height="40" />
+  <img src="assets/logos/plotly.png" alt="Plotly" height="40" />
+  <img src="assets/logos/streamlit.png" alt="Streamlit" height="40" />
+  <img src="assets/logos/jupyter.png" alt="Jupyter" height="40" />
+  <img src="assets/logos/power-bi.png" alt="Power BI" height="40" />
+  <img src="assets/logos/excel.png" alt="Microsoft Excel" height="40" />
+</p>
 
 ---
 
