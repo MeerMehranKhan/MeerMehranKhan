@@ -40,59 +40,25 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 
 ### 🧰 Tech Stack
 
-**Languages & Databases**
+**Core Stack**
 
-<table>
-  <tr>
-    <td align="center" width="70"><img src="assets/logos/python.png" width="40" height="40" alt="Python"/><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/javascript.png" width="40" height="40" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/html5.png" width="40" height="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/css3.png" width="40" height="40" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/mysql.png" width="40" height="40" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/postgresql.png" width="40" height="40" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/mongodb.png" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/sqlite.png" width="40" height="40" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,postgres,mongodb,sqlite,git,github,docker,linux,fastapi,sklearn,vscode,anaconda&perline=8" />
+</p>
 
-**Data Science & Analytics**
+**Data Science Libraries & Tools**
 
 <table>
   <tr>
     <td align="center" width="70"><img src="assets/logos/numpy.png" width="40" height="40" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/pandas.png" width="40" height="40" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/matplotlib.png" width="40" height="40" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/scikit-learn.png" width="40" height="40" alt="scikit-learn"/><br/><sub><b>scikit-learn</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/ploty.png" width="40" height="40" alt="Plotly"/><br/><sub><b>Plotly</b></sub></td>
-  </tr>
-</table>
-
-**Visualization & BI**
-
-<table>
-  <tr>
+    <td align="center" width="70"><img src="assets/logos/streamlit.png" width="40" height="40" alt="Streamlit"/><br/><sub><b>Streamlit</b></sub></td>
+    <td align="center" width="70"><img src="assets/logos/jupyter.png" width="40" height="40" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/power-bi.png" width="40" height="40" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/excel.png" width="40" height="40" alt="Excel"/><br/><sub><b>Excel</b></sub></td>
   </tr>
 </table>
-
-**Tools & Platforms**
-
-<table>
-  <tr>
-    <td align="center" width="70"><img src="assets/logos/git.png" width="40" height="40" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/docker.png" width="40" height="40" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/linux.png" width="40" height="40" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/streamlit.png" width="40" height="40" alt="Streamlit"/><br/><sub><b>Streamlit</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/jupyter.png" width="40" height="40" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/vscode.png" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/anaconda.png" width="40" height="40" alt="Anaconda"/><br/><sub><b>Anaconda</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/fastapi.png" width="40" height="40" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
-  </tr>
-</table>
-
-<!-- <img src="assets/logos/github.png" alt="GitHub" width="40" height="40" /> -->
-<!-- <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> -->
 
 ---
 
