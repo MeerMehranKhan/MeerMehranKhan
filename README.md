@@ -48,17 +48,15 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 
 **Data Science Libraries & Tools**
 
-<table>
-  <tr>
-    <td align="center" width="70"><img src="assets/logos/numpy.png" width="40" height="40" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/pandas.png" width="40" height="40" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/matplotlib.png" width="40" height="40" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/streamlit.png" width="40" height="40" alt="Streamlit"/><br/><sub><b>Streamlit</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/jupyter.png" width="40" height="40" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/power-bi.png" width="40" height="40" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/excel.png" width="40" height="40" alt="Excel"/><br/><sub><b>Excel</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
