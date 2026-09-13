@@ -82,7 +82,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 <img src="assets/logos/sqlite.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/streamlit.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/jupyter.png" alt="SQLite" width="40" height="40" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> -->
 <img src="assets/logos/vscode.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/anaconda.png" alt="SQLite" width="40" height="40" />
 
