@@ -49,7 +49,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 <img src="assets/logos/postgresql.png" alt="PostgreSQL" width="40" height="40" />
 <img src="assets/logos/mongodb.png" alt="MongoDB" width="40" height="40" />
 <img src="assets/logos/sqlite.png" alt="SQLite" width="40" height="40" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="assets/logos/javascript.png" alt="SQLite" width="40" height="40" />
 
 **Data Science & Analytics**
 
@@ -70,20 +70,20 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="assets/logos/fastapi.png" alt="SQLite" width="40" height="40" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 
 **Tools & Platforms**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="assets/logos/git.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/github.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/docker.png" alt="SQLite" width="40" height="40" />
 <img src="assets/logos/linux.png" alt="Linux" width="40" height="40" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="assets/logos/stremlit.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/jupyter.png" alt="SQLite" width="40" height="40" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+<img src="assets/logos/vscode.png" alt="SQLite" width="40" height="40" />
+<img src="assets/logos/anaconda.png" alt="SQLite" width="40" height="40" />
 
 ---
 
