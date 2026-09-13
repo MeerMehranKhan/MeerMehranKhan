@@ -63,7 +63,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
     <td align="center" width="70"><img src="assets/logos/pandas.png" width="40" height="40" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/matplotlib.png" width="40" height="40" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/scikit-learn.png" width="40" height="40" alt="scikit-learn"/><br/><sub><b>scikit-learn</b></sub></td>
-    <td align="center" width="70"><img src="assets/logos/plotly.png" width="40" height="40" alt="Plotly"/><br/><sub><b>Plotly</b></sub></td>
+    <td align="center" width="70"><img src="assets/logos/ploty.png" width="40" height="40" alt="Plotly"/><br/><sub><b>Plotly</b></sub></td>
   </tr>
 </table>
 
@@ -73,20 +73,6 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
   <tr>
     <td align="center" width="70"><img src="assets/logos/power-bi.png" width="40" height="40" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/excel.png" width="40" height="40" alt="Excel"/><br/><sub><b>Excel</b></sub></td>
-  </tr>
-</table>
-
-<!-- **Machine Learning & AI**
-
-<img src="https://img.shields.io/badge/Machine_Learning-EE4C2C?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> -->
-
-<table>
-  <tr>
-    <td align="center" width="70"><img src="assets/logos/fastapi.png" width="40" height="40" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
   </tr>
 </table>
 
@@ -101,6 +87,7 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
     <td align="center" width="70"><img src="assets/logos/jupyter.png" width="40" height="40" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/vscode.png" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
     <td align="center" width="70"><img src="assets/logos/anaconda.png" width="40" height="40" alt="Anaconda"/><br/><sub><b>Anaconda</b></sub></td>
+    <td align="center" width="70"><img src="assets/logos/fastapi.png" width="40" height="40" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
   </tr>
 </table>
 
