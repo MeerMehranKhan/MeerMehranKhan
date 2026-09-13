@@ -42,11 +42,19 @@ I work mainly in Python, using Pandas, SQL, and Streamlit to build end-to-end pi
 
 **Core Stack**
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,postgres,mongodb,sqlite,git,github,docker,linux,fastapi,sklearn,vscode,anaconda&perline=8" />
-</p>
+</p> -->
 
 <p>
+  <img src="assets/logos/python.png" alt="Python" height="40" />
+  <img src="assets/logos/javascript.png" alt="JavaScript" height="40" />
+  <img src="assets/logos/html5.png" alt="HTML5" height="40" />
+  <img src="assets/logos/css3.png" alt="Plotly" height="40" />
+  <img src="assets/logos/mysql.png" alt="MySQL" height="40" />
+  <img src="assets/logos/postgesql.png" alt="PostgreSQL" height="40" />
+  <img src="assets/logos/mongodb.png" alt="MongoDB" height="40" />
+  <img src="assets/logos/sqlite.png" alt="SQLite" height="40" />
   <img src="assets/logos/numpy.png" alt="NumPy" height="40" />
   <img src="assets/logos/pandas.png" alt="Pandas" height="40" />
   <img src="assets/logos/matplotlib.png" alt="Matplotlib" height="40" />
