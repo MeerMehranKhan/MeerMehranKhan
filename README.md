@@ -108,6 +108,7 @@ Turns a single idea input into a full business analysis: SWOT breakdown, MVP sco
 - **Google Advanced Data Analytics Professional Certificate** — Google via Coursera · [Verify](https://coursera.org/verify/professional-cert/GIF98L3Y1UDM)
 - **Google Business Intelligence Professional Certificate** — Google via Coursera · [Verify](https://coursera.org/verify/professional-cert/SMWO200NIW03)
 - **IBM RAG and Agentic AI Professional Certificate** — IBM via Coursera · [Verify](https://coursera.org/verify/professional-cert/R64S7UZOH6GW)
+- **Microsoft Power BI Data Analyst Professional Certificate** — IBM via Coursera · [Verify](https://coursera.org/share/05c129d00c0292ce993481d5501fccab)
 
 ---
 
