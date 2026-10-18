@@ -1,5 +1,5 @@
 <h1 align="center">Meer Mehran Khan</h1>
-<h3 align="center">Data Analyst · Python Developer</h3>
+<h3 align="center">Data Analyst · Business Analyst</h3>
 
 <p align="center">
 I take messy datasets and turn them into something people can actually use, a dashboard, a model, or just a CSV that finally makes sense. Most of what I build lives here, because I'd rather show the work than talk about it.
